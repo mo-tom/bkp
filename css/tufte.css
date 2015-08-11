@@ -7,8 +7,13 @@
 
 @font-face {
   font-family: ETBembo;
+  font-weight: bold;
+  src: url("/css/ETBembo-BoldLF.ttf") format('truetype');
+}
+
+@font-face {
+  font-family: ETBembo;
   font-style: italic;
-  font-weight: normal;
   src: url("/css/ETBembo-DisplayItalic.ttf") format('truetype');
 }
 
