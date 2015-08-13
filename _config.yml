@@ -13,8 +13,7 @@ github_username:  mo-tom
 # Build settings
 markdown: kramdown
 
-plugins: ./_plugins
-exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
+plugins: _plugins
 
 # URL structure
 permalink: none

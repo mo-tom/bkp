@@ -1,0 +1,27 @@
+---
+title: Eine Farce auf der Bühne eines großen historischen Ereignisses&#58; Glenn Becks "Restoring Honor" Rally
+author: TM
+layout: post
+date: 2010-08-28
+category: thoughts
+---
+
+Ich habe Glenn Becks Veranstaltung "Restoring Honor Rally" auf <a href="http://www.c-span.org/Watch/Media/2010/08/28/HP/A/37551/Restoring+Honor+Rally.aspx">C-Span</a> mitverfolgt und möchte meine Eindrücke schildern.
+
+Glenn Beck eröffnet die Veranstaltung mit einem pathetischen Appell an die tausenden Zuschauer. Er meint, alle Amerikaner müssten sich fragen, wo denn die neuen George Washingtons und Abraham Lincolns seien und er verfällt sogleich in einen weinerlichen Ton.
+
+Doch zuerst, meint Beck, muss gemeinsam gebetet werden. Ein christlicher Prediger tritt auf und hält eine leidenschaftliche Rede mit dem Tenor: One Nation under a (of course Christian) God. Der Rabbi und das nett gekleidete Indianerehepaar, die mit ihm auf die Bühne gekommen waren, stehen im Hintergrund, ohne auch nur ein Wort von sich zu geben.
+
+Glenn Beck holt als nächstes nicht "irgendeinen Politiker, der für irgendein Amt kandidiert oder irgendjemand vom Militär" auf die Bühne, nein, eine einfache "Mom" soll es sein. Das Stichwort ist gefallen: damit kann nur Sarah Palin gemeint sein, die sogleich hoch motiviert ans Mikrophon geeilt kommt. Sie beginnt dramatischste Geschichten zu erzählen, von Soldaten ihn Gefechten, die sie fast das Leben gekostet haben, ohne jeden größeren Bezug, warum und wofür mit welchen Aussichten man eigentlich Krieg führt.
+
+Als nächstes kündigt Beck die Verleihung von Orden für verdienstvolle Zivilisten an. Der erste Orden wird selbstverständlich vergeben für: Glauben. Eine Videosequenz wird eingespielt: "(…) we must find the faith again that once guided us (…)". Sodann hält ein Native-American die Laudatio auf den ersten Preisträger Rev. C. L. Jackson und wünscht sich sogleich noch ("I have a dream also (…)"), dass doch alle Indianerstämme aus ihren Reservaten kommen und Jesus Christus als ihren Retter anerkennen mögen.
+
+Die zweite Medaille, diesmal in der Kategorie "Hope", geht an einen mir unbekannten Baseball-Star. Seine nicht gerade überraschende Botschaft: Glaubt an Jesus Christus! Dann wird alles gut.<br /> Die nächste Ehrung für Charity-Engagement geht an einen weiteren mir unbekannten, sicherlich honorigen Kämpfer gegen Krebs.
+
+Nach ein paar swingenden Musikeinlagen spricht Alveda King, die Nichte von Rev. Martin Luther King. Jetzt wird es das erste Mal interessant. Sie beschwert sich darüber, dass der von ihrem Onkel damals eingeforderte, uneingelöste Scheck noch immer nicht eingelöst sei. Im Gegenteil: Amerika sei in Bezug auf die Rassenfrage fast bankrott. Sie wechselt dann aber doch zu ihrem eigentlichen Thema, der drohenden Zerstörung der traditionellen Familienstruktur.
+
+Und nun wieder Beck mit ein paar mehr Krokodilstränen und einer äußerst langweiligen Abschlussrede, in der er alle mögliche amerikanischen Tugenden und Ideale auf eine angeblich gemeinsame christliche Basis zurückführt. Daneben trägt er Vereinigungsrhetorik genauso wie Appelle an die Beherztheit der Einzelnen vor. Ich kann nur mehr schwer folgen, da seine Rede etwas konfus wirkt und er eigentlich nur mehr Allgemeinplätze und Leerformeln hervorbringt. Ich kann mich des Eindruckes nicht erwehren, dass der Mann etwas verwirrt ist, was durch seine immer wieder kurz einbrechende, weinerliche Stimme noch verstärkt wird.
+
+Mein Fazit: Marx hat einmal geschrieben, dass Hegel irgendwo bemerkt habe, dass sich alle großen weltgeschichtlichen Tatsachen und Personen sozusagen zweimal ereignen: das eine Mal als große Tragödie, das andere Mal als lumpige Farce. Das ist wohl die Formulierung, die am besten zu dem passt, was sich heute 47 Jahre nach der "I have a dream"-Rede von <a href="http://de.wikipedia.org/wiki/Martin_Luther_King">Rev. Martin Luther King Jr.</a> am Lincoln Memorial abgespielt hat. Denn wenn Glenn Beck sich das Mäntelchen der großen Geschichte der amerikanischen Bürgerrechtsbewegung umhängt und seine Veranstaltung damit in deren direkte Nachfolge stellt, so kann man das wohl nur als Farce bezeichnen. Für King war der Glaube noch die Basis seines Grundvertrauens, dass sich die Umstände auf der Welt zum Besseren ändern lassen. Für Beck scheint der Glaube das einzige Erstrebenswerte zu sein; wenn nur alle Menschen in Amerika Jesus Christus als ihren Retter annähmen, dann würde sich alles wie von selbst zum Guten wenden. Kurz um kann ich nur sagen: Glenn Beck hat nicht gelogen, als er im Vorfeld behauptete, dass die Versammlung keine "parteipolitische" Veranstaltung werden würde. Es war ein riesiger, öffentlicher Gottesdienst gepaart mit nationaler Heldenverehrung und dem energischen Aufruf, den Geist der USA zu erneuern; natürlich im Sinne der konservativen "religious right".
+
+Update: Ein Artikel in der _Washington Post_ (<a href="http://www.washingtonpost.com/wp-dyn/content/article/2010/08/27/AR2010082702359.html?nav=rss_opinion/columns&amp;utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed:+Dailyoped+%28DailyOpEd.com%29&amp;sid=ST2010082704942">_Civil rights' new 'owner': Glenn Beck_</a>) zeigt, wie Glenn Beck die Deutungshoheit über das Erbe  der amerikanischen Bürgerrechtsbewegung beansprucht. Vom Autor Dana Milbank erscheint am 5. Oktober ein Buch über Beck (<a href="http://www.randomhouse.com/catalog/display.pperl?isbn=9780385533881">_Tears of a Clown: Glenn Beck and the Tea Bagging of America_</a>).

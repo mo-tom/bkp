@@ -15,9 +15,10 @@ Today, we've come full circle as the debate about the analytical foundation of a
 
 So now with main street, IMF and the ivory tower faltering, are Wolfgang Schäuble and George Osborne the only die hard fans left of austerity politics? We will see how that plays out at the G20 meeting later this week in Washington where, <a href="http://www.reuters.com/article/2013/04/13/us-g20-eu-japan-idUSBRE93C08D20130413">as reports say</a>, the european delegates (i.e. <a href="http://www.faz.net/aktuell/wirtschaft/treffen-am-freitag-g-20-streiten-ueber-obergrenze-fuer-staatsschulden-12151431.html">Germany</a>) will push for an international commitment to a debt level below 90% of GDP. A plan that the USA is said to reject and Japan (now at 245,4% debt/GDP) is only laughing at.
 
+Damn, Clippy, why!?! [^clippy]
+
+![Clippy](/assets/rogoff-clippy.png){: .pimg}
+
 Update: FT's The World blog has put together <a href="http://blogs.ft.com/the-world/2013/04/reinhart-and-rogoff-your-essential-reading-list/">the essential reading list about Reinhardt/Rogoff.</a>
-Damn, Clippy, why!?!
 
-<iframe src="https://twitter.com/Pawelmorski/status/324524955947634688" align='center' ></iframe>
-
-{% tweet https://twitter.com/Pawelmorski/status/324524955947634688 %}
+[^clippy]: Image source: <http://crookedtimber.org/2013/04/17/new-tools-for-reproducible-research/>
