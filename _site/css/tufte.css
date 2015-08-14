@@ -251,10 +251,14 @@ a.site-title {
   font-size: 15px;
 }
 
+
+
 a.page-link {
   opacity: 0.8;
-  font-size: 22px;
+  font-size: 16px;
   color: #fffff8;
+  margin-top: 5px;
+  margin-bottom: 6px;
 }
 
 div#logo:hover a.page-link, div#logo:focus a.page-link {
