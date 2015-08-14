@@ -23,7 +23,7 @@ In den Zeiten vor der digitalen Revolution  war das am besten unter Zuhilfenahm
 
 Besonders der Soziologe Niklas Luhmann ist unter den bekannten Zettelkastenbenützern hervorzuheben, da er als Systemtheoretiker einen besonderen Blickwinkel gegenüber seinem liebsten wissenschaftlichen Instrument einnahm. Über das Ordnungsprinzip eines Zettelkastens meinte er:
 
-Die Gesamtheit der Notizen läßt sich nur als Unordnung beschreiben, immerhin aber als Unordnung mit nichtbeliebiger interner Struktur. […] Es ist mit dieser Technik gewährleistet, daß die Ordnung, sie ist ja nur formal, nicht zur Fessel wird, sondern sich der Gedankenentwicklung anpaßt. […] Jede Notiz ist nur ein Element, das seine Qualität erst aus dem Netz der Verweisungen und Rückverweisungen im System erhält.[^luhmann]
+>Die Gesamtheit der Notizen läßt sich nur als Unordnung beschreiben, immerhin aber als Unordnung mit nichtbeliebiger interner Struktur. […] Es ist mit dieser Technik gewährleistet, daß die Ordnung, sie ist ja nur formal, nicht zur Fessel wird, sondern sich der Gedankenentwicklung anpaßt. […] Jede Notiz ist nur ein Element, das seine Qualität erst aus dem Netz der Verweisungen und Rückverweisungen im System erhält.[^luhmann]
 
 [^luhmann]: Luhmann, Niklas (1992). "Kommunikation mit Zettelkästen: Ein Erfahrungsbericht". In: André Kieserling (Hg.). _Niklas Luhmann: Universität als Milieu, Kleine Schriften_. Bielefeld: Haux, S. 57 f.
 
