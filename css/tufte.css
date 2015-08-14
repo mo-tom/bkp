@@ -312,7 +312,7 @@ h1 { font-style: italic;
       margin-top: 4rem;
       margin-bottom: 1.5rem;
       font-size: 2.5rem;
-      line-height: 1; 
+      line-height: 1.2; 
 
 
 }
@@ -322,7 +322,7 @@ h2 {  font-style: italic;
       margin-top: 2rem;
       margin-bottom: 0;
       font-size: 1.9rem;
-      line-height: 1; }
+      line-height: 1.2; }
 
 h3 {  font-style: italic;
       font-weight: 400;

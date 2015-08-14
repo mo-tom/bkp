@@ -4,8 +4,9 @@ author: TM
 date: 2010-08-28
 layout: post
 category: thoughts
+redirect_from:
+  - /politik/grasstopsters-die-geldgeber-im-hintergrund-der-tea-party/
 ---
-
 
 Wer sich ein wenig mit der Innenpolitik der USA beschäftigt, der kennt die sogenannte <a href="http://en.wikipedia.org/wiki/Tea_Party_movement">Tea Party Bewegung</a>, die sich seit geraumer Zeit durch lautstarke <a href="http://www.youtube.com/watch?v=lUPMjC9mq5Y">Proteste</a> und schrille Persönlichkeiten (z. B. <a href="http://www.welt.de/politik/ausland/article9226883/Sarah-Palin-die-Koenigsmacherin-der-Republikaner.html">Sarah Palin</a>, <a href="http://www.youtube.com/watch?v=W3J_QLtYqlk">Glenn Beck</a>) in ihrem Umkreis bemerkbar macht. Dabei handelt es sich um eine breite, inhomogene Koalition von amerikanischen Bürgern, die eines eint: eine tiefe Unzufriedenheit mit der Politik der Obama Administration. Ansonsten vereint sich hier eine große Bandbreite von Einstellungen. Sie reicht von enttäuschten Konservativen, für die die meisten Republikaner zu liberal geworden sind (z. B. John McCain, der jedoch im gerade laufenden Wahlkampf versucht dieses Image durch einen <a href="http://www.politico.com/news/stories/0810/41339.html">Rechtsruck</a> loszuwerden), über Libertäre, die einen grundsoliden Anti-Steuerstaats-Fetischismus pflegen, bis hin zu Rassisten, die noch immer nicht ertragen können, einen farbigen (nur am Rande sei erwähnt, dass anscheinend immer mehr Menschen in den USA glauben, <a href="http://pewforum.org/Politics-and-Elections/Growing-Number-of-Americans-Say-Obama-is-a-Muslim.aspx#1">Obama sei ein Muslim</a>) Präsidenten zu haben.
 
