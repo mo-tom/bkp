@@ -4,7 +4,26 @@
   {% include head.html %}
 
   <body>
+<!--SMALL MENU-->
+      <div class="smallmenu">
+        <a href="{{ site.baseurl }}/"><img src="/assets/logo.gif" tabindex="0" alt="logo" style="border:0"></a>
+        <nav class="site-nav">
 
+        <a href="#" class="menu-icon">
+        
+      </a>
+
+      <div class="trigger">
+      <a class="page-link" href="{{ site.baseurl }}/">Posts</a>
+        {% for page in site.pages %}
+          {% if page.title %}
+          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+          {% endif %}
+        {% endfor %}
+      </div>
+    </nav>
+      </div>
+<!--SMALL MENU END-->
     {% include header.html %}
 
     <div class="page-content">

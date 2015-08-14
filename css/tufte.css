@@ -2,6 +2,57 @@
 *based on the excellent Tufte inspired theme by clayh53 https://github.com/clayh53/tufte-jekyll.
 *edited beyond recognition.
 */
+
+
+/*CSS RESET*/
+
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol, ul {
+  list-style: none;
+}
+blockquote, q {
+  quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+/*CSS RESET END*/
+
+
 @font-face {
   font-family: ETBembo;
   font-style: normal;
@@ -25,19 +76,97 @@ html {
   font-size: 11px; 
 }
 
-@media screen and (min-width: 100px)  { html{ font-size: 12px; } a.site-title { font-size: 3rem; }   div#logo { width: 40px; height: 40px; } div.home {width: 100%} div.post {width: 100%} div.footermargin {width: 100%;} .page-content {margin-left: 15% !important;}}
-@media screen and (min-width: 800px)  { html{ font-size: 12px; } a.site-title { font-size: 3rem; }   div#logo { width: 60px; height: 60px; } div.home {width: 55%}  div.post {width: 55%}  div.footermargin {width: 55%;}}
-@media screen and (min-width: 900px)  { html{ font-size: 13px; } a.site-title { font-size: 3.1rem; } div#logo { width: 60px; height: 60px; } div.home {width: 55%}  div.post {width: 55%}  div.footermargin {width: 55%;}}
-@media screen and (min-width: 1000px) { html{ font-size: 13px; } a.site-title { font-size: 3.2rem; } div#logo { width: 60px; height: 60px; } div.home {width: 55%}  div.post {width: 55%}  div.footermargin {width: 55%;}}
-@media screen and (min-width: 1100px) { html{ font-size: 13px; } a.site-title { font-size: 3.3rem; } div#logo { width: 60px; height: 60px; } div.home {width: 55%}  div.post {width: 55%}  div.footermargin {width: 55%;}}
-@media screen and (min-width: 1200px) { html{ font-size: 13px; } a.site-title { font-size: 3.4rem; } div#logo { width: 60px; height: 60px; } div.home {width: 55%}  div.post {width: 55%}  div.footermargin {width: 55%;}}
-@media screen and (min-width: 1300px) { html{ font-size: 13px; } a.site-title { font-size: 3.5rem; } div#logo { width: 60px; height: 60px; } div.home {width: 55%}  div.post {width: 55%}  div.footermargin {width: 55%;}}
+/*BACKUP
+@media screen and (min-width: 100px)  { 
+  html{ font-size: 12px; }
+  a.site-title { font-size: 3rem; }
+  div#logo { width: 40px; height: 40px; }
+  div.home {width: 100%}
+  div.post {width: 100%}
+  div.footermargin {width: 100%;}
+  .page-content {margin-left: 15% !important;}
+}*/
 
-site-header {
-  display: inline-block;
+@media screen and (min-width: 100px)  { 
+  html{ font-size: 12px; }
+  a.site-title { font-size: 3rem; }
+  div#logo { display: none; }
+  div.smallmenu { display: inline-block;}
+  div.home {width: 100%}
+  div.post {width: 100%}
+  div.footermargin {width: 100%;}
+  .page-content {margin-left: 2% !important;}
+  .site-footer {margin-left: 2% !important;}
+  .home {margin-top: 50px;}
+  .post {margin-top: 50px;}
 }
 
-div#logo { 
+@media screen and (min-width: 800px)  { 
+  html{ font-size: 12px; } 
+  a.site-title { font-size: 3rem; }   
+  div#logo { display: block; width: 60px; height: 60px; } 
+  div.smallmenu { display: none;}
+  div.home {width: 55%}  
+  div.post {width: 55%}  
+  div.footermargin {width: 55%;}
+  .page-content {margin-left: 12.5% !important;}
+  .site-footer {margin-left: 12.5% !important;}
+}
+
+@media screen and (min-width: 900px)  { 
+  html{ font-size: 13px; } 
+  a.site-title { font-size: 3.1rem; } 
+  div#logo { width: 60px; height: 60px; } 
+  div.home {width: 55%}  
+  div.post {width: 55%}  
+  div.footermargin {width: 55%;}
+}
+
+@media screen and (min-width: 1000px) { 
+  html{ font-size: 13px; } 
+  a.site-title { font-size: 3.2rem; } 
+  div#logo { width: 60px; height: 60px; } 
+  div.home {width: 55%}  
+  div.post {width: 55%}  
+  div.footermargin {width: 55%;}
+}
+
+@media screen and (min-width: 1100px) { 
+  html{ font-size: 13px; } 
+  a.site-title { font-size: 3.3rem; } 
+  div#logo { width: 60px; height: 60px; } 
+  div.home {width: 55%}  
+  div.post {width: 55%}  
+  div.footermargin {width: 55%;}
+}
+
+@media screen and (min-width: 1200px) { 
+  html{ font-size: 13px; } 
+  a.site-title { font-size: 3.4rem; } 
+  div#logo { width: 60px; height: 60px; } 
+  div.home {width: 55%}  
+  div.post {width: 55%}  
+  div.footermargin {width: 55%;}
+}
+
+@media screen and (min-width: 1300px) { 
+  html{ font-size: 13px; } 
+  a.site-title { font-size: 3.5rem; } 
+  div#logo { width: 60px; height: 60px; } 
+  div.home {width: 55%}  
+  div.post {width: 55%}  
+  div.footermargin {width: 55%;}
+}
+
+/*site-header {
+  display: inline-block;
+}*/
+
+/*div.smallmenu {
+  display: none;
+}*/
+
+div#logo {
   background-color: #a30000;
   margin-left: 3%;
   position: fixed;
@@ -71,17 +200,55 @@ div#logo .site-nav {
   
 }
 
+/*html {background-color: #a30000;}*/
 div#logo:hover .site-nav, div#logo:focus .site-nav {
   opacity: 0.8;
   transition: all 1s ease;
   transition-delay: 0.1s;
 }
 
+.smallmenu {
+  background-color: #a30000;
+  margin-top: -50px !important;
+  width: 100%;
+  height: 40px; 
+  margin-top: 0px; 
+  position: absolute;
+  overflow: hidden;
+}
+
+.smallmenu img {
+  display: inline-block;
+  height: 40px;
+  width: 40px;
+  float: left;
+  margin-right: 20px;
+}
+
+small-site-nav {
+  display: inline-block;
+  position: absolute;
+  float: left;
+
+}
+
+a.small-page-link {
+  margin-top: 2%;
+  padding-left: 3%;
+  color: #fffff8;
+  font-size: 25px;
+}
+
 
 a.site-title {
-  margin-top: 28px;
+  /*margin-top: 28px;*/
   margin-left: 12.5%;
   display: none; 
+}
+
+.small-page-link {
+  display: inline-block;
+  font-size: 15px;
 }
 
 a.page-link {
@@ -106,13 +273,14 @@ div.home .post-meta {
 
 
 header.site-header {
-  margin-top: 50px;
+  /*margin-top: 50px;*/
   background-color: #fffff8; 
   -webkit-font-smoothing: antialiased;
 }
 
 
 body { 
+  margin-top: 0px
   width: 100%;
        margin-left: auto;
        margin-right: auto;
@@ -277,7 +445,7 @@ a.site-title {
 
 h1 { font-style: italic;
       font-weight: 400;
-      margin-top: 4rem;
+      /*margin-top: 4rem;*/
       margin-bottom: 1.5rem;
       font-size: 2.5rem;
       line-height: 1.2; 
@@ -285,7 +453,7 @@ h1 { font-style: italic;
 
 h2 {  font-style: italic;
       font-weight: 400;
-      margin-top: 2rem;
+      /*margin-top: 2rem;*/
       margin-bottom: 0;
       font-size: 1.9rem;
       line-height: 1.2; }

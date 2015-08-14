@@ -1,9 +1,29 @@
 <header class="site-header">
   
     <div class="wrapper">
+
+<!--SMALL MENU-->
+      <div class="smallmenu">
+        <a href="{{ site.baseurl }}/"><img src="/assets/logo.gif" tabindex="0" alt="logo" style="border:0"></a>
+        <nav class="small-site-nav">
+
+          <a href="#" class="menu-icon"></a>
+
+          <!--<div class="trigger">-->
+          <a class="small-page-link" href="{{ site.baseurl }}/">Posts</a>
+            {% for page in site.pages %}
+              {% if page.title %}
+              <a class="small-page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+              {% endif %}
+            {% endfor %}
+          <!--</div>-->
+        </nav>
+      </div>
+<!--SMALL MENU END-->
+
       <div id="menu">
       <div id="logo">
-        <a href="{{ site.baseurl }}/"><img src="/assets/logo.gif" tabindex="0" alt="logo" style="border:0"></a>
+        <img src="/assets/logo.gif" tabindex="0" alt="logo" style="border:0">
         <nav class="site-nav">
 
         <a href="#" class="menu-icon">
