@@ -46,7 +46,7 @@ div#logo {
   transition-delay: 0.1s;
 }
 
-div#logo:hover {
+div#logo:hover, div#logo:focus {
   height: 115px;
   width: 80px;
 }
