@@ -4,6 +4,8 @@ author: TM
 date: 2010-10-03
 layout: post
 category: thoughts
+redirect_from:
+  - /2010/10/wachruttelnde-polemik-oder.html
 ---
 
 In einem Kommentar in _DIE ZEIT_ hat Thea Dorn Thilo Sarrazin - inhaltlich nicht unbedingt zustimmend aber formal - zum beispielhaften Kämpfer gegen das langweilige Politikestablishment erhoben, um damit gegen die zu protestieren, die ihrer Meinung nach "Freundlichkeit, Behutsamkeit, auch im sprachlichen Miteinander" als "Mäntelchen (…), mit dem die eigene Orientierungslosigkeit kaschiert wird" gebrauchen, und es jenen streitbaren Polemikern verunmöglichen würden, jemals ein gewichtiges Amt im Staate zu bekleiden. Ich möchte anhand einiger Zitate eine Kritik an ihrer Position, die sie im Kommentar in DIE ZEIT dargelegt hat, formulieren und im Anschluss ihre eigenen Aussagen <a href="http://www.spiegel.de/spiegel/0,1518,599582,00.html">in einem früheren Essay im _SPIEGEL_</a> gegenüberstellen, die meines Erachtens, ihre eigenen Aussagen _ad absurdum_ führen.
