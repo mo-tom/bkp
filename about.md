@@ -1,6 +1,7 @@
 ---
 title: About
 layout: page
+weight: 4
 ---
 
 Für den alt­griechis­chen Aus­druck διαγωγή (diagoge) gibt es nicht nur kein direkt entsprechen­des Wort im Deutschen, son­dern auch der struk­turelle Bedeu­tung­shor­i­zont des Begriffs ist in unserer heuti­gen Sprache vernebelt.

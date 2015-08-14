@@ -10,8 +10,9 @@
           <a href="#" class="menu-icon"></a>
 
           <!--<div class="trigger">-->
-          <a class="small-page-link" href="{{ site.baseurl }}/">Posts</a>
-            {% for page in site.pages %}
+          <a class="small-page-link" href="{{ site.baseurl }}/">Home</a>
+            {% assign pages = site.pages | sort:"weight" %}
+            {% for page in pages %}
               {% if page.title %}
               <a class="small-page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
               {% endif %}
@@ -31,8 +32,9 @@
       </a>
 
       <div class="trigger">
-      <a class="page-link" href="{{ site.baseurl }}/">Posts</a>
-        {% for page in site.pages %}
+      <a class="page-link" href="{{ site.baseurl }}/">Home</a>
+        {% assign pages = site.pages | sort:"weight" %}
+            {% for page in pages %}
           {% if page.title %}
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}
