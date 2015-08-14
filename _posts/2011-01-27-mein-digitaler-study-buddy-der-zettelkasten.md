@@ -4,6 +4,8 @@ author: TM
 date: 2011-01-27
 layout: post
 category: tools
+redirect_from:
+  - /zeug/mein-digitaler-study-buddy-der-zettelkasten/
 ---
 
 _Ist die Angst vorm leeren Blatt erst einmal überwunden, genügt es nicht immer, einfach drauflos zu schreiben. Für Einträge ins Tagebuch mag das nicht gelten, doch je mehr Recherchematerial in einen Text einfließen soll, desto wichtiger wird der richtige Umgang mit dem selbigen._

@@ -15,5 +15,9 @@ markdown: kramdown
 
 plugins: _plugins
 
+# gems
+gems:
+  - jekyll-redirect-from
+
 # URL structure
 permalink: none
