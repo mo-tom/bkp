@@ -4,6 +4,8 @@ author: TM
 date: 2011-03-16
 layout: post
 category: thoughts
+redirect_from:
+  - /politik/die-schwierigkeiten-der-internationalen-politik-und-die-frage-nach-einer-flugverbotszone-ueber-libyen/
 ---
 
 _In Libyen finden  weiterhin schwere Kämpfe zwischen den Regierungstruppen und den Rebellen statt. Während die internationale Gemeinschaft darüber nachdenkt, ob eine Flugverbotszone verhängt werden soll, schließt sich das Zeitfenster, in dem eine solche Maßnahme noch zielführend sein könnte. Es zeigen sich wieder einmal die Probleme der internationalen Politik._

@@ -4,6 +4,8 @@ author: TM
 date: 2012-02-13
 layout: post
 category: thoughts
+redirect_from:
+  - /politik/stop-acta-demo-berlin/
 ---
 
 Am Samstag (11. Februar 2012) fand ein europäischer Protesttag gegen das internationale "Antipiratierieabkommen" ACTA (Anti-Counterfeiting Trade Agreement) statt. Alleine in Deutschland haben laut Medienberichten ca. 100.000 Menschen an Protestmärschen in 55 Städten an Demonstrationen teilgenommen.
