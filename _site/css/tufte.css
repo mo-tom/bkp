@@ -36,6 +36,7 @@ body {
   line-height: 1;
 }
 ol, ul {
+  line-height: 2rem;
   /*list-style: none;*/
 }
 blockquote, q {
@@ -147,7 +148,8 @@ html {
  /*div#logo { width: 60px; height: 60px; }*/
  nav.small-site-nav {margin-left: 10% !important;}
   div#logo { display: none; }
-  div.smallmenu { display: inline-block;}   div.home {width: 55%}  
+  div.smallmenu { display: inline-block;}
+  div.home {width: 55%}  
   div.post {width: 55%}  
   div.footermargin {width: 55%;}
 }
@@ -533,12 +535,21 @@ p { font-size: 1.4rem;
     vertical-align: baseline;
   }
 
+ul {
+  line-height: 2rem;
+}
+
 li {
+  line-height: 2rem;
   font-size: 140%;
   margin-top: 15px;
 }
 
-div.footnotes {margin-top: 40px; font-size: 80%;}
+div.footnotes {
+  margin-left: 3%;
+  margin-top: 40px;
+  font-size: 80%;
+}
 
 a.footnote {
   font-size: 80%;
