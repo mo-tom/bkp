@@ -18,6 +18,7 @@ plugins: _plugins
 # gems
 gems:
   - jekyll-redirect-from
+  - jekyll-sitemap
 
 # URL structure
 permalink: none
