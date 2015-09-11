@@ -4,6 +4,8 @@ author: TM
 date: 2013-03-09
 layout: post
 category: thoughts
+redirect_from:
+  - /armed-conflicts/afghanistan-war-statistics-the-matrics-battle/
 ---
 
 As the war in Afghanistan is winding down, and the US led ISAF is trying to get the hell out of the vast mountainous contry another war is gaining ground: a war about metrics.

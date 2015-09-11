@@ -3,6 +3,8 @@ title: Ägypten 2011&#58; E-Mail an Fischer, Faymann und Spindelegger
 author: TM
 layout: post
 category: letters
+redirect_from:
+  - /politik/agypten-2011-e-mail-an-fischer-faymann-und-spindelegger/
 ---
 
 Sehr geehrter Herr Bundespräsident Fischer, Herr Bundeskanzler Faymann, Herr Außenminister Spindelegger,

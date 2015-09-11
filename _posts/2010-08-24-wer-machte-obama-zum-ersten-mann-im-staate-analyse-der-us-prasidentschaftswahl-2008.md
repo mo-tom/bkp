@@ -4,6 +4,8 @@ author: TM
 date: 2010-08-24
 layout: post
 category: thoughts
+redirect_from:
+  - /2010/08/wer-machte-obama-zum-ersten-mann-im-staate-analyse-der-us-prasidentschaftswahl-2008/
 ---
 
 Die Präsidentschaftswahl im Jahr 2008 in den USA ist schon lange Vergangenheit und von der _Obamania_ scheint nicht mehr viel übrig geblieben zu sein. Auch den Spruch "Yes we can" will niemand mehr, in welcher Abwandlung auch immer (z. B. "Yes we Gauck"), hören.
