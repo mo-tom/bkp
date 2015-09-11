@@ -118,7 +118,9 @@ html {
 @media screen and (min-width: 900px)  { 
   html{ font-size: 13px; } 
   a.site-title { font-size: 3.1rem; } 
-  div#logo { width: 60px; height: 60px; } 
+  /*div#logo { width: 60px; height: 60px; }*/
+  div#logo { display: none; }
+  div.smallmenu { display: inline-block;} 
   div.home {width: 55%}  
   div.post {width: 55%}  
   div.footermargin {width: 55%;}
@@ -127,8 +129,9 @@ html {
 @media screen and (min-width: 1000px) { 
   html{ font-size: 13px; } 
   a.site-title { font-size: 3.2rem; } 
-  div#logo { width: 60px; height: 60px; } 
-  div.home {width: 55%}  
+ /*div#logo { width: 60px; height: 60px; }*/
+  div#logo { display: none; }
+  div.smallmenu { display: inline-block;}   div.home {width: 55%}  
   div.post {width: 55%}  
   div.footermargin {width: 55%;}
 }
@@ -136,8 +139,9 @@ html {
 @media screen and (min-width: 1100px) { 
   html{ font-size: 13px; } 
   a.site-title { font-size: 3.3rem; } 
-  div#logo { width: 60px; height: 60px; } 
-  div.home {width: 55%}  
+ /*div#logo { width: 60px; height: 60px; }*/
+  div#logo { display: none; }
+  div.smallmenu { display: inline-block;}   div.home {width: 55%}  
   div.post {width: 55%}  
   div.footermargin {width: 55%;}
 }
@@ -145,8 +149,9 @@ html {
 @media screen and (min-width: 1200px) { 
   html{ font-size: 13px; } 
   a.site-title { font-size: 3.4rem; } 
-  div#logo { width: 60px; height: 60px; } 
-  div.home {width: 55%}  
+ /*div#logo { width: 60px; height: 60px; }*/
+  div#logo { display: none; }
+  div.smallmenu { display: inline-block;}   div.home {width: 55%}  
   div.post {width: 55%}  
   div.footermargin {width: 55%;}
 }
@@ -154,8 +159,9 @@ html {
 @media screen and (min-width: 1300px) { 
   html{ font-size: 13px; } 
   a.site-title { font-size: 3.5rem; } 
-  div#logo { width: 60px; height: 60px; } 
-  div.home {width: 55%}  
+ /*div#logo { width: 60px; height: 60px; }*/
+  div#logo { display: none; }
+  div.smallmenu { display: inline-block;}   div.home {width: 55%}  
   div.post {width: 55%}  
   div.footermargin {width: 55%;}
 }
@@ -228,6 +234,8 @@ div#logo:hover .site-nav, div#logo:focus .site-nav {
 }
 
 nav.small-site-nav {
+  width: 100%;
+  height: 40px;
   display: inline-block;
   position: absolute;
   float: left;
@@ -236,7 +244,7 @@ nav.small-site-nav {
 
 .small-page-link {
   height: 50%;
-  margin-top: 5%;
+  margin-top: 11px;
 }
 
 a.small-page-link {
