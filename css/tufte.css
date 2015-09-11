@@ -92,6 +92,7 @@ html {
   a.site-title { font-size: 3rem; }
   div#logo { display: none; }
   div.smallmenu { display: inline-block;}
+  nav.small-site-nav {margin-left: 15% !important;}
   div.home {width: 100%}
   div.post {width: 100%}
   div.footermargin {width: 100%;}
