@@ -104,8 +104,10 @@ html {
 @media screen and (min-width: 800px)  { 
   html{ font-size: 12px; } 
   a.site-title { font-size: 3rem; }   
-  div#logo { display: block; width: 60px; height: 60px; } 
-  div.smallmenu { display: none;}
+  /*div#logo { display: block; width: 60px; height: 60px; } 
+  div.smallmenu { display: none;}*/
+  div#logo { display: none; }
+  div.smallmenu { display: inline-block;}
   div.home {width: 55%}  
   div.post {width: 55%}  
   div.footermargin {width: 55%;}
@@ -211,7 +213,7 @@ div#logo:hover .site-nav, div#logo:focus .site-nav {
   background-color: #a30000;
   margin-top: -50px !important;
   width: 100%;
-  height: 40px; 
+  height: 11%; 
   margin-top: 0px; 
   position: absolute;
   overflow: hidden;
@@ -225,15 +227,21 @@ div#logo:hover .site-nav, div#logo:focus .site-nav {
   margin-right: 20px;
 }
 
-small-site-nav {
+nav.small-site-nav {
   display: inline-block;
   position: absolute;
   float: left;
 
 }
 
+.small-page-link {
+  height: 50%;
+  margin-top: 5%;
+}
+
 a.small-page-link {
-  margin-top: 2%;
+  /*margin-top: 2%;
+  margin-bottom: 2%;*/
   padding-left: 3%;
   color: #fffff8;
   font-size: 18px;
