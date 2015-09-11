@@ -96,7 +96,8 @@ html {
   div.home {width: 100%}
   div.post {width: 100%}
   div.footermargin {width: 100%;}
-  .page-content {margin-left: 5% !important;}
+  .page-content {margin-left: 5% !important;
+    margin-right: 3% !important;}
   .site-footer {margin-left: 5% !important;}
   .home {margin-top: 50px;}
   .post {margin-top: 50px;}
