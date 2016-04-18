@@ -55,22 +55,22 @@ table {
 
 
 @font-face {
-  font-family: ETBembo;
+  font-family: Linuxlib;
   font-style: normal;
   font-weight: normal;
-  src: url("/css/ETBembo-RomanLF.ttf") format('truetype');
+  src: url("/css/LinLibertine_R.otf") format('truetype');
 }
 
 @font-face {
-  font-family: ETBembo;
+  font-family: Linuxlib;
   font-weight: bold;
-  src: url("/css/ETBembo-BoldLF.ttf") format('truetype');
+  src: url("/css/LinLibertine_RB.otf") format('truetype');
 }
 
 @font-face {
-  font-family: ETBembo;
+  font-family: Linuxlib;
   font-style: italic;
-  src: url("/css/ETBembo-DisplayItalic.ttf") format('truetype');
+  src: url("/css/LinLibertine_RI.otf") format('truetype');
 }
 
 html {
@@ -314,7 +314,7 @@ body {
   width: 100%;
        margin-left: auto;
        margin-right: auto;
-       font-family: ETBembo, Palatino, serif;
+       font-family: Linuxlib, serif;
        -webkit-font-smoothing: subpixel-antialiased;
        background-color: #fffff8;
        color: #111;
@@ -401,7 +401,7 @@ div.social {
   color: #fffff8;
   display: none;
   font-size: 18px;
-  font-family: ETBembo, serif;
+  font-family: Linuxlib, serif;
   font-weight: normal;
   -webkit-font-smoothing: antialiased;
   left: -60px;
