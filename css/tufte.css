@@ -74,7 +74,8 @@ table {
 }
 
 html {
-  font-size: 13px; 
+  font-size: 14px;
+-webkit-font-smoothing: subpixel-antialiased;
 }
 
 /*BACKUP
