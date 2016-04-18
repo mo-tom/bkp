@@ -161,7 +161,7 @@ html {
  nav.small-site-nav {margin-left: 10% !important;}
   div#logo { display: none; }
   div.smallmenu { display: inline-block;}   div.home {width: 55%}  
-  div.post {width: 55%}  
+  div.post {width: 30%}  
   div.footermargin {width: 55%;}
 }
 
@@ -172,7 +172,7 @@ html {
  nav.small-site-nav {margin-left: 10% !important;}
   div#logo { display: none; }
   div.smallmenu { display: inline-block;}   div.home {width: 55%}  
-  div.post {width: 55%}  
+  div.post {width: 30%}  
   div.footermargin {width: 55%;}
 }
 
