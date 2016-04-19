@@ -90,7 +90,7 @@ html {
 }*/
 
 @media screen and (min-width: 50px)  { 
-  html{ font-size: 14px; }
+  html{ font-size: 12px; }
   a.site-title { font-size: 3rem; }
   div#logo { display: none; }
   div.smallmenu { display: inline-block;}
@@ -106,16 +106,16 @@ html {
 }
 
 @media screen and (min-width: 800px)  { 
-  html{ font-size: 14px; } 
+  html{ font-size: 12px; } 
   a.site-title { font-size: 3rem; }   
   /*div#logo { display: block; width: 60px; height: 60px; } 
   div.smallmenu { display: none;}*/
   nav.small-site-nav {margin-left: 10% !important;}
   div#logo { display: none; }
   div.smallmenu { display: inline-block;}
-  div.home {width: 300px;}  
-  div.post {width: 300px;}  
-  div.footermargin {width: 300px;}
+  div.home {width: 500px;}  
+  div.post {width: 500px;}  
+  div.footermargin {width: 500px;}
   .page-content {margin-left: 10% !important;}
   .site-footer {margin-left: 10% !important;}
 }
