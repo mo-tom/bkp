@@ -108,7 +108,7 @@ html {
 /*UPDATE 15:55*/
 
 
-@media screen and (min-width: 800px)  { 
+@media screen and (min-width: 550px)  { 
   html{ font-size: 12px; } 
   a.site-title { font-size: 3rem; }   
   /*div#logo { display: block; width: 60px; height: 60px; } 
@@ -674,4 +674,4 @@ span.newthought { font-variant: small-caps; }
                p, h2, h3 { orphans: 3;
                            widows: 3; }
 
-               h2, h3 { page-break-after: avoid; }}
+               h2, h3 { page-break-after: avoid; }
