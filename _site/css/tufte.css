@@ -1,3 +1,4 @@
+/*UPDATE 16:08*/
 /*
 *based on the excellent Tufte inspired theme by clayh53 https://github.com/clayh53/tufte-jekyll.
 *edited beyond recognition.
@@ -78,19 +79,9 @@ html {
 -webkit-font-smoothing: subpixel-antialiased;
 }
 
-/*BACKUP
-@media screen and (min-width: 100px)  { 
-  html{ font-size: 12px; }
-  a.site-title { font-size: 3rem; }
-  div#logo { width: 40px; height: 40px; }
-  div.home {width: 100%}
-  div.post {width: 100%}
-  div.footermargin {width: 100%;}
-  .page-content {margin-left: 15% !important;}
-}*/
-
 @media screen and (min-width: 50px)  { 
-  html{ font-size: 13px; }
+  html{ font-size: 13px;
+  -webkit-font-smoothing: subpixel-antialiased; }
   a.site-title { font-size: 3rem; }
   div#logo { display: none; }
   div.smallmenu { display: inline-block;}
@@ -105,11 +96,10 @@ html {
   .post {margin-top: 50px;}
 }
 
-/*UPDATE 15:55*/
-
 
 @media screen and (min-width: 550px)  { 
-  html{ font-size: 13px; } 
+  html{ font-size: 13px; 
+  -webkit-font-smoothing: subpixel-antialiased;} 
   a.site-title { font-size: 3rem; }   
   /*div#logo { display: block; width: 60px; height: 60px; } 
   div.smallmenu { display: none;}*/
@@ -123,74 +113,6 @@ html {
   .site-footer {margin-left: 10% !important;}
 }
 
-/*
-
-@media screen and (min-width: 900px)  { 
-  html{ font-size: 17px; } 
-  a.site-title { font-size: 3.1rem; } 
-  nav.small-site-nav {margin-left: 10% !important;}
-  div#logo { display: none; }
-  div.smallmenu { display: inline-block;} 
-  div.home {width: 55%}  
-  div.post {width: 55%}  
-  div.footermargin {width: 55%;}
-}
-
-@media screen and (min-width: 1000px) { 
-  html{ font-size: 17px; } 
-  a.site-title { font-size: 3.2rem; } 
- nav.small-site-nav {margin-left: 10% !important;}
-  div#logo { display: none; }
-  div.smallmenu { display: inline-block;}   div.home {width: 55%}  
-  div.post {width: 55%}  
-  div.footermargin {width: 55%;}
-}
-
-
-
-@media screen and (min-width: 1100px) { 
-  html{ font-size: 17px; } 
-  a.site-title { font-size: 3.3rem; } 
- nav.small-site-nav {margin-left: 10% !important;}
-  div#logo { display: none; }
-  div.smallmenu { display: inline-block;}
-  div.home {width: 55%}  
-  div.post {width: 55%}  
-  div.footermargin {width: 55%;}
-}
-
-
-@media screen and (min-width: 1200px) { 
-  html{ font-size: 17px; } 
-  a.site-title { font-size: 3.4rem; } 
- nav.small-site-nav {margin-left: 10% !important;}
-  div#logo { display: none; }
-  div.smallmenu { display: inline-block;}   div.home {width: 30%}  
-  div.post {width: 30%}  
-  div.footermargin {width: 30%;}
-}
-
-
-@media screen and (min-width: 1300px) { 
-  html{ font-size: 17px; } 
-  a.site-title { font-size: 3.5rem; } 
-  nav.small-site-nav {margin-left: 10% !important;}
-  div#logo { display: none; }
-  div.smallmenu { display: inline-block;}   div.home {width: 30%}  
-  div.post {width: 30%}  
-  div.footermargin {width: 30%;}
-}
-
-*/
-
-
-/*site-header {
-  display: inline-block;
-}*/
-
-/*div.smallmenu {
-  display: none;
-}*/
 
 div#logo {
   background-color: #a30000;
