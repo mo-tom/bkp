@@ -90,7 +90,7 @@ html {
 }*/
 
 @media screen and (min-width: 50px)  { 
-  html{ font-size: 13px; }
+  html{ font-size: 14px; }
   a.site-title { font-size: 3rem; }
   div#logo { display: none; }
   div.smallmenu { display: inline-block;}
@@ -106,7 +106,7 @@ html {
 }
 
 @media screen and (min-width: 800px)  { 
-  html{ font-size: 13px; } 
+  html{ font-size: 14px; } 
   a.site-title { font-size: 3rem; }   
   /*div#logo { display: block; width: 60px; height: 60px; } 
   div.smallmenu { display: none;}*/
@@ -121,7 +121,7 @@ html {
 }
 
 @media screen and (min-width: 900px)  { 
-  html{ font-size: 16px; } 
+  html{ font-size: 17px; } 
   a.site-title { font-size: 3.1rem; } 
   /*div#logo { width: 60px; height: 60px; }*/
   nav.small-site-nav {margin-left: 10% !important;}
@@ -133,7 +133,7 @@ html {
 }
 
 @media screen and (min-width: 1000px) { 
-  html{ font-size: 16px; } 
+  html{ font-size: 17px; } 
   a.site-title { font-size: 3.2rem; } 
  /*div#logo { width: 60px; height: 60px; }*/
  nav.small-site-nav {margin-left: 10% !important;}
@@ -144,7 +144,7 @@ html {
 }
 
 @media screen and (min-width: 1100px) { 
-  html{ font-size: 16px; } 
+  html{ font-size: 17px; } 
   a.site-title { font-size: 3.3rem; } 
  /*div#logo { width: 60px; height: 60px; }*/
  nav.small-site-nav {margin-left: 10% !important;}
@@ -156,25 +156,25 @@ html {
 }
 
 @media screen and (min-width: 1200px) { 
-  html{ font-size: 16px; } 
+  html{ font-size: 17px; } 
   a.site-title { font-size: 3.4rem; } 
  /*div#logo { width: 60px; height: 60px; }*/
  nav.small-site-nav {margin-left: 10% !important;}
   div#logo { display: none; }
-  div.smallmenu { display: inline-block;}   div.home {width: 55%}  
+  div.smallmenu { display: inline-block;}   div.home {width: 30%}  
   div.post {width: 30%}  
-  div.footermargin {width: 55%;}
+  div.footermargin {width: 30%;}
 }
 
 @media screen and (min-width: 1300px) { 
-  html{ font-size: 16px; } 
+  html{ font-size: 17px; } 
   a.site-title { font-size: 3.5rem; } 
  /*div#logo { width: 60px; height: 60px; }*/
  nav.small-site-nav {margin-left: 10% !important;}
   div#logo { display: none; }
-  div.smallmenu { display: inline-block;}   div.home {width: 55%}  
+  div.smallmenu { display: inline-block;}   div.home {width: 30%}  
   div.post {width: 30%}  
-  div.footermargin {width: 55%;}
+  div.footermargin {width: 30%;}
 }
 
 /*site-header {
@@ -318,7 +318,7 @@ body {
        font-family: Linuxlib, serif;
        -webkit-font-smoothing: subpixel-antialiased;
        background-color: #fffff8;
-       color: #111;
+       color: #000000;
 }
 
 .page-content { margin-left: 10%;
