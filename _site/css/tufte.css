@@ -55,26 +55,27 @@ table {
 
 
 @font-face {
-  font-family: ETBembo;
+  font-family: Linuxlib;
   font-style: normal;
   font-weight: normal;
-  src: url("/css/ETBembo-RomanLF.ttf") format('truetype');
+  src: url("/css/LinLibertine_R.otf") format('truetype');
 }
 
 @font-face {
-  font-family: ETBembo;
+  font-family: Linuxlib;
   font-weight: bold;
-  src: url("/css/ETBembo-BoldLF.ttf") format('truetype');
+  src: url("/css/LinLibertine_RB.otf") format('truetype');
 }
 
 @font-face {
-  font-family: ETBembo;
+  font-family: Linuxlib;
   font-style: italic;
-  src: url("/css/ETBembo-DisplayItalic.ttf") format('truetype');
+  src: url("/css/LinLibertine_RI.otf") format('truetype');
 }
 
 html {
-  font-size: 11px; 
+  font-size: 14px;
+-webkit-font-smoothing: subpixel-antialiased;
 }
 
 /*BACKUP
@@ -104,7 +105,10 @@ html {
   .post {margin-top: 50px;}
 }
 
-@media screen and (min-width: 800px)  { 
+/*UPDATE 15:55*/
+
+
+@media screen and (min-width: 550px)  { 
   html{ font-size: 12px; } 
   a.site-title { font-size: 3rem; }   
   /*div#logo { display: block; width: 60px; height: 60px; } 
@@ -112,17 +116,18 @@ html {
   nav.small-site-nav {margin-left: 10% !important;}
   div#logo { display: none; }
   div.smallmenu { display: inline-block;}
-  div.home {width: 55%}  
-  div.post {width: 55%}  
-  div.footermargin {width: 55%;}
+  div.home {width: 500px;}  
+  div.post {width: 500px;}  
+  div.footermargin {width: 500px;}
   .page-content {margin-left: 10% !important;}
   .site-footer {margin-left: 10% !important;}
 }
 
+/*
+
 @media screen and (min-width: 900px)  { 
-  html{ font-size: 13px; } 
+  html{ font-size: 17px; } 
   a.site-title { font-size: 3.1rem; } 
-  /*div#logo { width: 60px; height: 60px; }*/
   nav.small-site-nav {margin-left: 10% !important;}
   div#logo { display: none; }
   div.smallmenu { display: inline-block;} 
@@ -132,9 +137,8 @@ html {
 }
 
 @media screen and (min-width: 1000px) { 
-  html{ font-size: 13px; } 
+  html{ font-size: 17px; } 
   a.site-title { font-size: 3.2rem; } 
- /*div#logo { width: 60px; height: 60px; }*/
  nav.small-site-nav {margin-left: 10% !important;}
   div#logo { display: none; }
   div.smallmenu { display: inline-block;}   div.home {width: 55%}  
@@ -142,10 +146,11 @@ html {
   div.footermargin {width: 55%;}
 }
 
+
+
 @media screen and (min-width: 1100px) { 
-  html{ font-size: 13px; } 
+  html{ font-size: 17px; } 
   a.site-title { font-size: 3.3rem; } 
- /*div#logo { width: 60px; height: 60px; }*/
  nav.small-site-nav {margin-left: 10% !important;}
   div#logo { display: none; }
   div.smallmenu { display: inline-block;}
@@ -154,27 +159,30 @@ html {
   div.footermargin {width: 55%;}
 }
 
+
 @media screen and (min-width: 1200px) { 
-  html{ font-size: 13px; } 
+  html{ font-size: 17px; } 
   a.site-title { font-size: 3.4rem; } 
- /*div#logo { width: 60px; height: 60px; }*/
  nav.small-site-nav {margin-left: 10% !important;}
   div#logo { display: none; }
-  div.smallmenu { display: inline-block;}   div.home {width: 55%}  
-  div.post {width: 55%}  
-  div.footermargin {width: 55%;}
+  div.smallmenu { display: inline-block;}   div.home {width: 30%}  
+  div.post {width: 30%}  
+  div.footermargin {width: 30%;}
 }
 
+
 @media screen and (min-width: 1300px) { 
-  html{ font-size: 13px; } 
+  html{ font-size: 17px; } 
   a.site-title { font-size: 3.5rem; } 
- /*div#logo { width: 60px; height: 60px; }*/
- nav.small-site-nav {margin-left: 10% !important;}
+  nav.small-site-nav {margin-left: 10% !important;}
   div#logo { display: none; }
-  div.smallmenu { display: inline-block;}   div.home {width: 55%}  
-  div.post {width: 55%}  
-  div.footermargin {width: 55%;}
+  div.smallmenu { display: inline-block;}   div.home {width: 30%}  
+  div.post {width: 30%}  
+  div.footermargin {width: 30%;}
 }
+
+*/
+
 
 /*site-header {
   display: inline-block;
@@ -314,10 +322,10 @@ body {
   width: 100%;
        margin-left: auto;
        margin-right: auto;
-       font-family: ETBembo, Palatino, serif;
+       font-family: Linuxlib, serif;
        -webkit-font-smoothing: subpixel-antialiased;
        background-color: #fffff8;
-       color: #111;
+       color: #000000;
 }
 
 .page-content { margin-left: 10%;
@@ -401,7 +409,7 @@ div.social {
   color: #fffff8;
   display: none;
   font-size: 18px;
-  font-family: ETBembo, serif;
+  font-family: Linuxlib, serif;
   font-weight: normal;
   -webkit-font-smoothing: antialiased;
   left: -60px;
@@ -526,7 +534,7 @@ thead th { border-bottom: 1px solid #333333;
 article { position: relative;
           padding-top: 1rem; }
 
-p { font-size: 1.4rem;
+p { font-size: 1.5rem;
     line-height: 2rem;
     margin-top: 1.4rem;
     margin-bottom: 1.4rem;
@@ -666,4 +674,4 @@ span.newthought { font-variant: small-caps; }
                p, h2, h3 { orphans: 3;
                            widows: 3; }
 
-               h2, h3 { page-break-after: avoid; }}
+               h2, h3 { page-break-after: avoid; }
