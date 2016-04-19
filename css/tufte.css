@@ -105,6 +105,9 @@ html {
   .post {margin-top: 50px;}
 }
 
+/*UPDATE 15:55*/
+
+
 @media screen and (min-width: 800px)  { 
   html{ font-size: 12px; } 
   a.site-title { font-size: 3rem; }   
