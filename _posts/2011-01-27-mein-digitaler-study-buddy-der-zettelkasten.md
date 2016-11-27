@@ -4,6 +4,7 @@ author: TM
 date: 2011-01-27
 layout: post
 category: tools
+comments: true
 redirect_from:
   - /zeug/mein-digitaler-study-buddy-der-zettelkasten/
   - /tools/mein-digitaler-study-buddy-der-zettelkasten-2/
