@@ -4,6 +4,7 @@ author: TM
 post_date: 2013-04-30
 layout: post
 category: thoughts
+comments: true
 ---
 
 Political parties in Germany are getting ready for a tough campaign throughout the summer for parliamentary elections in late September. As far as the euro crisis is concerned chancellor Merkel and finance minister Schäuble are trying to delay each and every step towards a comprehensive solution.

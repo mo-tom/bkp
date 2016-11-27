@@ -4,6 +4,7 @@ author: TM
 post_date: 2015-06-24 15:29:23
 layout: post
 category: letters
+comments: true
 ---
 
 Dear Mr. Zuckerberg,

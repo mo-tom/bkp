@@ -4,6 +4,7 @@ author: TM
 date: 2013-06-11
 layout: post
 category: thoughts
+comments: true
 ---
 
 ## Articles that broke the story

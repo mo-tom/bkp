@@ -4,6 +4,7 @@ author: TM
 date: 2013-06-10
 layout: post
 category: thoughts
+comments: true
 ---
 
 Two charts show what kind of **naive optimism** that dominates the institutional brains of policy apparatuses like IMF, EC etc.

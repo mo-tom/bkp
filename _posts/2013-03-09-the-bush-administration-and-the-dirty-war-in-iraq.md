@@ -4,6 +4,7 @@ author: TM
 date: 2013-03-09
 layout: post
 category: thoughts
+comments: true
 ---
 
 At the end of this month the tenth anniversary of the US-led invasion of Iraq will be remembered -- although it seems this mostly disastrous foreign policy failure has already fallen into collective (and above all _legal)_ oblivion. As the date approaches, this week the _Guardian_ (and _BBC Arabic_) <a href="http://www.guardian.co.uk/world/2013/mar/06/pentagon-iraqi-torture-centres-link">published</a> a thorough investigation about a previously unknown grim detail and put the spotlight on Iraq again.

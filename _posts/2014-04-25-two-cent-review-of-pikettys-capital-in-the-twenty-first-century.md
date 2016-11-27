@@ -4,6 +4,7 @@ author: TM
 post_date: 2014-04-25
 layout: post
 category: thoughts
+comments: true
 ---
 
 A spectre is haunting the review pages – the spectre of _Capital in the Twenty-First Century_. This is the title of a book by the French economist Thomas Piketty. About two months after its release, it's already an all time bestseller for Harvard University Press (Belknap) who sold 41,000 copies and counting – which is quite remarkable for an +600 pages academic publication (albeit intended for a wider circle of 'interested' individuals). This fact alone shows how timely this publication is for the debates about capitalism's 'new normal' and its future after the Great Financial Crisis which unearthed and in many cases accelerated the economic disruptions that mounted at least since the mid 1970s.

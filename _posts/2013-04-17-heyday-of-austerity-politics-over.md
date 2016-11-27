@@ -4,6 +4,7 @@ author: TM
 date: 2013-04-17
 layout: post
 category: thoughts
+comments: true
 ---
 
 It's not only the simple folks in the eurozone periphery who protest against austerity politics anymore.

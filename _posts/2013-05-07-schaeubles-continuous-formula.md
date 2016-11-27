@@ -4,6 +4,7 @@ author: TM
 date: 2013-05-07
 layout: post
 category: thoughts
+comments: true
 ---
 
 Read this sentence from Wolfgang Schäuble:

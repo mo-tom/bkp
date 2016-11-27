@@ -4,6 +4,7 @@ author: TM
 date: 2013-05-08
 layout: post
 category: thoughts
+comments: true
 ---
 
 Reported <a href='http://www.handelsblatt.com/politik/deutschland/zahl-der-aufstocker-steigt-hartz-iv-und-das-trotz-job/8178178.html' target='_blank' rel='nofollow'>figures</a> show that **in Germany there are now some 1,3 million people who have to be paid allowances ('Hartz IV') to lift their income just a bit above the subsistence level**.

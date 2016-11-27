@@ -3,6 +3,7 @@ title: Die philosophische Steuerdebatte? Sloterdijk et al. über das nötige Ma�
 author: TM
 date: 2009-11-29
 layout: post
+comments: true
 category: thoughts
 ---
 

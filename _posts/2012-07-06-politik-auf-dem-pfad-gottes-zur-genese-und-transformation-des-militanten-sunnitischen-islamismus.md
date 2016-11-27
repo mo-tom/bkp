@@ -4,6 +4,7 @@ author: TM
 date: 2012-07-06
 layout: post
 category: thoughts
+comments: true
 ---
 
 Ein Hinweis in eigener Sache: seit heute ist mein (erstes) neues Buch mit dem Titel _Politik auf dem Pfad Gottes: Zur Genese und Transformation des militanten sunnitischen Islamismus_ erschienen. Ich hoffe, mit dem Buch einen kleinen Beitrag zu einer kritischen Auseinandersetzung mit dem Thema Islamismus geleistet zu haben. Das Buch ist über <a href="http://www.amazon.de/Politik-auf-Pfad-Gottes-Transformation/dp/3902811676/ref=sr_1_1?ie=UTF8&amp;qid=1341561164&amp;sr=8-1">Amazon</a> oder direkt beim Verlag <a href="http://www.uibk.ac.at/iup/verlagsverzeichnis/politik.html">_Innsbruck university press_</a> erhältlich. Das Inhaltsverzeichnis kann <a href="https://docs.google.com/file/d/0BzNCsCiVxoJsdVJ3dXY4RWdMZnM/edit" rel="nofollow">hier</a> eingesehen werden.

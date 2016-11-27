@@ -4,6 +4,7 @@ author: TM
 date: 2010-08-28
 layout: post
 category: thoughts
+comments: true
 redirect_from:
   - /politik/grasstopsters-die-geldgeber-im-hintergrund-der-tea-party/
 ---

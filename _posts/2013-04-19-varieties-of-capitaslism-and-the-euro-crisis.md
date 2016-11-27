@@ -4,6 +4,7 @@ author: TM
 date: 2013-04-19
 layout: post
 category: thoughts
+comments: true
 ---
 
 Here's an interesting recording of a public lecture at LSE by Peter Hall about the euro crisis from the perspective of the varieties-of-capitalism approach in political science.

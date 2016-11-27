@@ -4,6 +4,7 @@ author: TM
 date: 2012-05-04
 layout: post
 category: thoughts
+comments: true
 ---
 
 Einige Links zu und Zusammenfassungen von interessanten Artikeln aus diversen Onlinezeitungen dieser Woche.

@@ -4,6 +4,7 @@ author: TM
 date: 2013-04-24
 layout: post
 category: thoughts
+comments: true
 ---
 
 Here's a short interview with <a href="http://www.polis.cam.ac.uk/contacts/staff/simms-brendan.html" target="_blank" rel="nofollow">Brendan Simms</a>, a professor of history of international relations. He talks to an editor of the _Economist_ about the past and present strength of Germany within Europe and its implications in the context of the <a href="http://www.diagoge.com/tag/eurocrisis/" target="_blank">euro crisis</a>.

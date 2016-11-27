@@ -4,6 +4,7 @@ author: TM
 date: 2012-02-13
 layout: post
 category: thoughts
+comments: true
 redirect_from:
   - /politik/stop-acta-demo-berlin/
 ---

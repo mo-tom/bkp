@@ -4,6 +4,7 @@ author: TM
 date: 2013-03-09
 layout: post
 category: thoughts
+comments: true
 redirect_from:
   - /armed-conflicts/afghanistan-war-statistics-the-matrics-battle/
 ---

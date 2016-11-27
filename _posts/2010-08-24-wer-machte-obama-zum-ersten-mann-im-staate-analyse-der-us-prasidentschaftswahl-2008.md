@@ -3,6 +3,7 @@ title: Wer machte Obama zum ersten Mann im Staate? Analyse der US-Präsidentscha
 author: TM
 date: 2010-08-24
 layout: post
+comments: true
 category: thoughts
 redirect_from:
   - /2010/08/wer-machte-obama-zum-ersten-mann-im-staate-analyse-der-us-prasidentschaftswahl-2008/

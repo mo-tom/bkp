@@ -4,6 +4,7 @@ author: TM
 layout: post
 date: 2010-08-28
 category: thoughts
+comments: true
 ---
 
 Ich habe Glenn Becks Veranstaltung "Restoring Honor Rally" auf <a href="http://www.c-span.org/Watch/Media/2010/08/28/HP/A/37551/Restoring+Honor+Rally.aspx">C-Span</a> mitverfolgt und möchte meine Eindrücke schildern.

@@ -4,6 +4,7 @@ author: TM
 date: 2012-04-16
 layout: post
 category: thoughts
+comments: true
 ---
 
 Die Wahl des Innsbrucker Gemeinderats und die erste Runde der Bürgermeisterwahl ist über die Bühne gegangen. <a href="http://wahlen.innsbruck.gv.at/" target="_blank" rel="nofollow">Das Ergebnis</a> war nicht sonderlich überraschend. Die SPÖ hat ein wenig verloren, die FPÖ ein wenig gewonnen, der große "Stimmentausch" fand zwischen den schwarzen Listen Für Innsbruck und ÖVP statt.
